@@ -1,0 +1,25 @@
+############### Context of the Problem #############
+Hydro Pumping Ltd, Project manager Alan is working with a small team that take care of water pump of a 
+small area far from big town, there are 7 system failure in last year. Those failure 
+cause huge problem to many people and also lead to some serious living problem of 
+some family. The team can't see any pattern in the data when the system goes down, 
+so they are not sure where to put more attention.
+
+Since he is not expert in data, he required some analyst to solve the problem, so he gather available sensor 
+data and hope that the analyst who will be hired can help.
+
+Content
+The data are from all available sensor, all of them are raw value. Total sensor are 52 unit.
+
+################ As a Data Analyst your job is to understand the data and its patterns
+1. Detect if there are any outliers in the data.
+2. Calculate all the statistical measure in excel to show a proper report on each sensor
+3. Create a graphical report in excel to showcase to Alan, write proper insights of those.
+4. If there are any outliers how will you interpret those sensors.
+5. How the sensors are deviated.
+6. Also check the MAD for each sensors, to identify how those sensors are getting deviated.
+
+Create a proper report of your analysis on a word doc and convert that to a pdf.
+Upload that pdf in git and share the link on email. Also, dont forget to upload the analysis excel.
+Pdf is cumpulsory with the first page mentioning about the Project name and developer name.
+2nd Page will have the agenda of the report and then from the 3rd page give brief details about your analysis.
